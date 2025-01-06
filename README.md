@@ -27,4 +27,4 @@ This project automates the testing of the **Insider** website using **Java** and
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/username/repository-name.git](https://github.com/akifgurkan/insiderAutomationTask.git)
+   git clone https://github.com/akifgurkan/insiderAutomationTask.git
