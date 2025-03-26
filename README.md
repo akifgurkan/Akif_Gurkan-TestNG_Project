@@ -1,4 +1,4 @@
-# Selenium TestNG QA Task - Insider Website Test Automation
+# Selenium TestNG - Insider Website Test Automation
 
 ## Project Description
 This project automates the testing of the **Insider** website using **Java** and **Selenium**. It is built with the **TestNG** framework and follows the **Page Object Model (POM)** design pattern. Additionally, the `Driver` class is implemented using the **Singleton Pattern**.
